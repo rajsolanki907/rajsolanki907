@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajsolanki907
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning c++ and oops concept  
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning 
+- 🌱 I’m currently learning Machine Learning And AI Model Training  
+- 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me using my mail which is rajkumarsolanki907@gmail.com 
 
 <!---
