@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @rajsolanki907
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Machine Learning And AI Model Training  
-- 💞️ I’m looking to collaborate on Machine Learning Projects and look forward for TeamUp.
-- 📫 How to reach me using my mail which is rajkumarsolanki907@gmail.com 
+- 📫 How to reach me using my email which is rajkumarsolanki907@gmail.com 
 
 <!---
 rajsolanki907/rajsolanki907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
