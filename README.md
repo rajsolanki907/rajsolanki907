@@ -22,3 +22,9 @@
 - Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS
 - Backend: Express.js (basic)
 - Tools: Git, GitHub, VS Code, Figma, Illustrator
+
+📈 GitHub Stats:
+<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rajsolanki907&show_icons=true&theme=radical" /> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsolanki907&layout=compact&theme=radical" /> </p>
+
+🤝 Let's Connect:
+<p align="center"> <a href="mailto:rajkumarsolanki907@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> ```
