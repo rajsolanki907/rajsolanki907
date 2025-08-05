@@ -36,7 +36,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [CarTraders]((https://github.com/rajsolanki907/Car-Management-Store.git)) | React.js, Tailwind, Firebase | A sleek car trading platform with live listings |
+| [CarTraders](https://github.com/rajsolanki907/Car-Management-Store) | React.js, Tailwind, Firebase | A sleek car trading platform with live listings |
 | [EasyNotes](https://github.com/rajsolanki907/EasyNotes) | React.js, Express.js, MongoDB | A full-stack note-taking app with authentication |
 
 ---
